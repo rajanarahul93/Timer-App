@@ -16,7 +16,7 @@ The Timer App is a simple web application that allows users to set and manage ti
 1. Clone the repository to your local machine:
 
     ```
-    git clone https://github.com/your-username/timer-app.git
+    git clone https://github.com/rajanarahul93 /timer-app.git
     ```
 
 2. Open the `index.html` file in your web browser to use the Timer App.
